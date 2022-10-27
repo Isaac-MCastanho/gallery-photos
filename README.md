@@ -9,19 +9,17 @@
 
 ## 🔎Preview
 
-<div align="center">
-    <div align='left'>
-        <br>
-    
-    </div>
-<h5>Desktop</h5>
-<img src="./preview/preview-desktop.jpg" alt="Foto de preview do site, versão desktop."/>
-<h5>Mobile</h5>
-<img  src="./preview/preview-mobile.jpg" alt="Foto de preview do site, versão mobile."/>
-</div>
 
 
+   
 
+<h5 align="center">Desktop</h5>
+
+<img align="center"  src="./preview/preview-desktop.jpg" alt="Foto de preview do site, versão desktop."/>
+
+<h5 align="center">Mobile</h5>
+
+<img align="center"  src="./preview/preview-mobile.jpg" alt="Foto de preview do site, versão mobile."/>
 
 
 
