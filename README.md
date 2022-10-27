@@ -11,17 +11,16 @@
 
 
 
-   
 
 <h5 align="center">Desktop</h5>
 
-<img align="center"  src="./preview/preview-desktop.jpg" alt="Foto de preview do site, versão desktop."/>
+<div align="center">
+<img align="center"  src="./preview/preview-desktop.JPG" alt="Foto de preview do site, versão desktop."/>
 
 <h5 align="center">Mobile</h5>
 
-<img align="center"  src="./preview/preview-mobile.jpg" alt="Foto de preview do site, versão mobile."/>
-
-
+<img align="center"  src="./preview/preview-mobile.JPG" alt="Foto de preview do site, versão mobile."/>
+</div>
 
 
 
